@@ -26,3 +26,6 @@ Il commence après le bouton “Continuer” de la page des moyens financiers. L
 ### Discuter avec une IA spécialisée dans l’orientation 
 Ce cas d’utilisation commence après que l’acteur est appuyé sur la bulle de discussion de la page des propositions de filières. Il pourra discuter comme avec une intelligence artificielle spécialisée dans l’orientation des nouveaux bacheliers afin qu’il ait une carrière éblouissante.
 
+
+## Diagramme de classe 
+![Diagrame_classe_UML-Gnac_Orientation.drawio.png](Diagrame_classe_UML-Gnac_Orientation.drawio.png)
